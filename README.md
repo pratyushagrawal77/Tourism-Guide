@@ -4,18 +4,18 @@ The Travel Guide is a Java application designed to help users explore various lo
 -------------------------------------------------------------------------------------------------------------------------------
 
 ## Table of Contents
-- [Introduction]
-- [Features]
-- [Getting Started]
-  - [Prerequisites]
-  - [Installation]
-- [Usage]
-- [Contributing]
-- [Acknowledgements]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
-The  Travel Guide project aims to offer users a comprehensive platform to explore and discover various tourist destinations across all 28 states of India. With detailed information on cities and attractions, users can plan their travels more efficiently and effectively.
+The Travel Guide project aims to offer users a comprehensive platform to explore and discover various tourist destinations across all 28 states of India. With detailed information on cities and attractions, users can plan their travels more efficiently and effectively.
 
 ## Features
 
@@ -31,7 +31,7 @@ To get started with the India Travel Guide project, follow these steps:
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your system.
-- Basic understanding of Java programming language.
+- Basic understanding of the Java programming language.
 
 ### Installation
 
@@ -58,7 +58,6 @@ We welcome contributions from the community to improve and enhance the India Tra
 4. Push your changes to your fork.
 5. Submit a pull request, explaining the changes you've made and their purpose.
 
-
 ## Acknowledgements
 
 We extend our sincere appreciation to the following individuals and resources for their invaluable contributions to the India Travel Guide project:
@@ -68,5 +67,3 @@ We extend our sincere appreciation to the following individuals and resources fo
 - **Stack Overflow Community**: For their continuous support and guidance in resolving technical challenges encountered during the development process.
 - **Beta Testers**: We are grateful to our beta testers for providing valuable feedback and helping us improve the user experience of the India Travel Guide application.
 - **Friends and Family**: For their encouragement, support, and understanding throughout the duration of this project.
-
-
