@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DatabaseConnector
+comment1.params=url\ username\ password
+comment1.target=DatabaseConnector(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ connect()
+comment3.params=
+comment3.target=java.sql.Connection\ getConnection()
+comment4.params=
+comment4.target=void\ close()
+comment5.params=sqlQuery
+comment5.target=java.sql.ResultSet\ executeQuery(java.lang.String)
+numComments=6
